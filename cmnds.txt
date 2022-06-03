@@ -1,7 +1,10 @@
-git init
+version controller
+git init>intialize in pwd
 git status>list untracked files
 git add -A
 git commit -m "message"
 git clone
 git push
 git pull
+
+local working space>staging area>local repo>remote repo
