@@ -7,3 +7,8 @@ git clone
 git push
 git pull
 local working space>staging area>local repo>remote repo
+
+git remote add lab https://github.com/Silpaakhil123/git-cmds.git
+git remote -v
+git status
+git push -u lab master
